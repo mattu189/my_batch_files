@@ -1,1 +1,0 @@
-tlmgr update --self --all
